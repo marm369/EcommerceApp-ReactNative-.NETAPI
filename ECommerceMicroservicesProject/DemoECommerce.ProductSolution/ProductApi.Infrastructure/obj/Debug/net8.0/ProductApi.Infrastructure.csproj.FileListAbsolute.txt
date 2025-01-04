@@ -1,0 +1,17 @@
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Infrastructure.deps.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Infrastructure.runtimeconfig.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Infrastructure.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Infrastructure.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.AssemblyInfo.cs
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductA.D44E8AF8.Up2Date
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\refint\ProductApi.Infrastructure.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ProductApi.Infrastructure.genruntimeconfig.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Infrastructure\obj\Debug\net8.0\ref\ProductApi.Infrastructure.dll

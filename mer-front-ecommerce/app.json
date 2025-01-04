@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "mer-front-ecommerce",
+    "slug": "mer-front-ecommerce",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "We need your location to show the map and nearby services.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Location access is required for accurate map functionality."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.merfrontecommerce"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

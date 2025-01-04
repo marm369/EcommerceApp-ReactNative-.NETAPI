@@ -1,0 +1,11 @@
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\ouiss\ECommerceMicroservicesProject\DemoECommerce.ProductSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll
